@@ -2,7 +2,7 @@
 
 Computer Science and Engineering student building a strong foundation in software engineering.
 
-Currently focused on full-stack development, with a structured roadmap through the PERN stack, TypeScript, QA Automation, DevOps, and AI. This GitHub serves as a record of that journey—every project, every experiment, and every lesson learned.
+Currently focused on full-stack development, with a structured roadmap through the PERN stack, TypeScript, QA Automation, DevOps, and AI. This GitHub serves as a record of that journey every project, every experiment, and every lesson learned.
 
 
 ## 🌐 Socials:
