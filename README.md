@@ -1,23 +1,128 @@
-## About Me
+<h1 align="center">Hi, I'm Mehedi Hassan Bhuiyan</h1>
 
-Computer Science and Engineering Student building a strong foundation in software engineering.
+<p align="center">
+Computer Science & Engineering Student • Aspiring Software Engineer
+</p>
 
-Currently focused on full-stack development, with a structured roadmap through the PERN stack, TypeScript, QA Automation, DevOps, and AI. This GitHub serves as a record of that journey every project, every experiment, and every lesson learned.
+<p align="center">
+Building software through consistent learning, practical projects, and problem solving.
+</p>
 
-## 🌐 Socials:
+<p align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mehedi.hassan.2003/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-hassan-bhuiyan-589531304/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abraharmehedi003@gmail.com)
+<a href="https://www.linkedin.com/in/mehedi-hassan-bhuiyan-589531304/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abraharmehedi003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/mehedi.hassan.2003/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# About Me
+
+I'm a Computer Science & Engineering student passionate about software engineering, artificial intelligence, and building scalable applications.
+
+I'm currently focused on:
+
+- Data Structures & Algorithms
+- Full-Stack Development 
+- TypeScript
+- QA Automation
+- DevOps
+- Machine Learning
+
+GitHub is where I document my progress through projects, experiments, and consistent daily practice.
+
+---
+
+# Current Learning
+
+- Python Data Structures & Algorithms
+- Responsive Web Development
+- React & TypeScript
+- Node.js & Express
+- PostgreSQL
+- Machine Learning
+
+---
+
+# Current Projects
+
+- Python DSA Journey
+- Full Stack Journey
+- Machine Learning Journey
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+---
+
+# GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehedi032003&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/Mehedi032003" />
+
+</p>
+
+---
+
+# Featured Repositories
+
+| Repository | Description |
+|------------|-------------|
+| **Python DSA Journey** | Daily Data Structures & Algorithms practice using Python |
+| **Full Stack Journey** | Web development projects and learning notes |
+| **Machine Learning Journey** | Machine learning implementations and experiments |
+
+---
 
 
+<p align="center">
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats
+*"Consistency beats intensity."*
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mehedi032003&theme=radical&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api?username=Mehedi032003&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mehedi032003&theme=radical&hide_border=true&layout=compact&langs_count=8)
+</p>
