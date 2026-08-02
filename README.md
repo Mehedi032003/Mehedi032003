@@ -34,8 +34,6 @@ I'm currently focused on:
 
 - Data Structures & Algorithms
 - Full-Stack Development 
-- TypeScript
-- QA Automation
 - DevOps
 - Machine Learning
 
