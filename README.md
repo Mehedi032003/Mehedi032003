@@ -98,15 +98,6 @@ GitHub is where I document my progress through projects, experiments, and consis
 
 ---
 
-# Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/Mehedi032003" />
-
-</p>
-
----
 
 # Featured Repositories
 
